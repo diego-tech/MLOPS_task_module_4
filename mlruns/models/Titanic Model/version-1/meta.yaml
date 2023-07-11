@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1689093977647
+current_stage: Production
+description: ''
+last_updated_timestamp: 1689094526051
+name: Titanic Model
+run_id: b5a13af3706242b58a6e2399655a756b
+run_link: ''
+source: file:///Users/diegodev/Library/CloudStorage/OneDrive-Personal/Formacion/Master_Inteligencia_Artificial/Modulo%204.%20Ciclo%20de%20Vida%20de%20los%20Modelos%20IA/Tareas/Tarea%202/MLOPS_task_module_4/mlruns/0/b5a13af3706242b58a6e2399655a756b/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

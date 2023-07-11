@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diegodev/Library/CloudStorage/OneDrive-Personal/Formacion/Master_Inteligencia_Artificial/Modulo%204.%20Ciclo%20de%20Vida%20de%20los%20Modelos%20IA/Tareas/Tarea%202/MLOPS_task_module_4/mlruns/0/b5a13af3706242b58a6e2399655a756b/artifacts
+end_time: 1689093511299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a13af3706242b58a6e2399655a756b
+run_name: RandomForest_1689093509.26119
+run_uuid: b5a13af3706242b58a6e2399655a756b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689093509485
+status: 3
+tags: []
+user_id: diegodev

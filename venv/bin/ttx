@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/Users/diegodev/Library/CloudStorage/OneDrive-Personal/Formacion/Master_Inteligencia_Artificial/Modulo 4. Ciclo de Vida de los Modelos IA/Tareas/Tarea 2/MLOPS_task_module_4/venv/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from fontTools.ttx import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
