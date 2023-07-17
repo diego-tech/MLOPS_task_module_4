@@ -4,6 +4,7 @@
 
 - Python 3.7 o superior
 
+## Instalación y ejecución
 1. Navega hasta el directorio de la aplicación:
 ```shell
 cd mi-aplicacion-flask
